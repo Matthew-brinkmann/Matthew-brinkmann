@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Matthew Brinkmann
+
+* :books: I am currently studying at [Holberton School Australia](https://holbertonschool.com.au/)
+* :computer: I am a Associate Software Engineer at [ReeceTech](https://www.reecetech.com.au/)
+* Currently predominately working in C, Python, and occasionally in Java.
+* [linkedIn profile](https://www.linkedin.com/in/matthew-brinkmann-47061a157/)
+* Occasionally I need to summarise learning for Holberton, these can be found on [medium](https://medium.com/@matthew.brinkmann)
 
 <!--
 **Matthew-brinkmann/Matthew-brinkmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
