@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Matthew Brinkmann
 
-* :books: I am currently studying at [Holberton School Australia](https://holbertonschool.com.au/)
 * :computer: I am a Associate Software Engineer at [ReeceTech](https://www.reecetech.com.au/)
-* Currently predominately working in C, Python, and occasionally in Java.
+* :books: I graduated from studying at [Holberton School Australia](https://holbertonschool.com.au/) in November 2022
+* Currently predominately working in Java, Angular and React. I also am proficient in Python.
 * [linkedIn profile](https://www.linkedin.com/in/matthew-brinkmann-47061a157/)
 * Occasionally I need to summarise my lessons for Holberton, these can be found on [medium](https://medium.com/@matthew.brinkmann)
 
